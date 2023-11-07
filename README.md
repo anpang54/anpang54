@@ -4,9 +4,6 @@ I do coding as a hobby. I code in Python, JS, and some Lua, and I also do web de
 
 Pronouns: He/Him&emsp;&emsp;&emsp;&emsp;Website: <https://anpang.fun/>&emsp;&emsp;&emsp;&emsp;[Email me](mailto:anpang59@gmail.com)
 
-### Stats
-[![Anpang54's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anpang54&theme=dark&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
 ### What I'm working on
 * [Cornmoji](https://cornmoji.anpang.fun/), an open-source emoji and icon set
 * [Pizn](https://github.com/PiznLang/Pizn), a new programming language coded in C++
