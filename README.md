@@ -9,6 +9,8 @@ Pronouns: He/Him&emsp;&emsp;&emsp;&emsp;Website: <https://anpang.fun/>&emsp;&ems
 * [G<sup>+</sup>](https://github.com/Anpang54/gplus), a new programming language I'm making with [this guy](https://github.com/pique2312)
 * Learning Java. It's terrible.
 
+Don't ask what my pfp is, It was so long ago I don't even remember where I got it from.
+
 <!--
 **Anpang54/Anpang54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
