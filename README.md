@@ -6,7 +6,7 @@ Pronouns: He/Him&emsp;&emsp;&emsp;&emsp;Website: <https://anpang.fun/>&emsp;&ems
 
 ### What I'm working on
 * [Cornmoji](https://cornmoji.anpang.fun/), an open-source emoji and icon set
-* [Pizn](https://github.com/PiznLang/Pizn), a new programming language coded in C++
+* [G<sup>+</sup>](https://github.com/Anpang54/gplus), a new programming language I'm making with [this guy](https://github.com/pique2312)
 * Learning Java. It's terrible.
 
 <!--
