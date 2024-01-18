@@ -6,10 +6,10 @@ Pronouns: He/Him&emsp;&emsp;&emsp;&emsp;Website: <https://anpang.fun/>&emsp;&ems
 
 ### What I'm working on
 * [Cornmoji](https://cornmoji.anpang.fun/), an open-source emoji and icon set
-* [G<sup>+</sup>](https://github.com/Anpang54/gplus), a new programming language I'm making with [this guy](https://github.com/pique2312)
-* Learning Java. It's terrible.
+* [Pineapple](https://github.com/Anpang54/pineapple), a new programming language I'm making
+* Learning Java. It's absolutely terrible.
 
-Don't ask what my pfp is, it was so long ago I don't even remember where I got it from.
+Don't ask what my pfp is, it was so long ago I don't even remember where I got it from
 
 <!--
 **Anpang54/Anpang54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
