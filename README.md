@@ -5,8 +5,9 @@ I do coding as a hobby. I code in Python, JS, and some Lua, and I also do web de
 Pronouns: He/Him&emsp;&emsp;&emsp;&emsp;Website: <https://anpang.fun/>&emsp;&emsp;&emsp;&emsp;[Email me](mailto:anpang59@gmail.com)
 
 ### What I'm working on
-* [Cornmoji](https://cornmoji.anpang.fun/), an open-source emoji and icon set
-* [Pineapple](https://github.com/Anpang54/pineapple), a new programming language I'm making
+* [Pineapple](https://pineapple.anpang.fun/), a new programming language I'm making
+* Random projects like [collection](https://github.com/Anpang54/collection) and [under-construction](https://github.com/Anpang54/under-construction)
+* [ladder.js](https://github.com/Anpang54/ladder.js)
 * Learning Java. It's absolutely terrible.
 
 Don't ask what my pfp is, it was so long ago I don't even remember where I got it from
