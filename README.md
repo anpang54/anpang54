@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Anpang54&style=for-the-badge) ![](https://img.shields.io/badge/Level-Who_the_actual_hell_is_this_guy-%23e55?style=for-the-badge)
 
 ## Hi there!
 I'm Anpang54 (real name Anpang).\
@@ -12,3 +11,5 @@ Pronouns: He/Him&emsp;&emsp;&emsp;&emsp;Website: <https://anpang.fun/>&emsp;&ems
 * Learning Java. It's absolutely terrible.
 
 Don't ask what my pfp is, it was so long ago I don't even remember where I got it from
+
+![](https://komarev.com/ghpvc/?username=Anpang54&style=for-the-badge) ![](https://img.shields.io/badge/Level-Who_the_actual_hell_is_this_guy-%23e55?style=for-the-badge)
