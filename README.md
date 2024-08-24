@@ -10,9 +10,11 @@ Pronouns: He/Him&emsp;&emsp;/&emsp;&emsp;[Email me](mailto:anpang59@gmail.com)
 **Maintained:**
 * [My website](https://anpang.fun/)
 * [Polus](https://polus.anpang.fun)
+* [swᴜɪ](https://github.com/anpang54/swui)
+* [Collecate](https://github.com/anpang54/collecate)
 
 **Not maintained:**
-* [Collecate](https://github.com/anpang54/collecate)
+
 * [under-construction](https://github.com/anpang54/under-construction)
 
 ![](https://komarev.com/ghpvc/?username=Anpang54&style=for-the-badge) ![](https://img.shields.io/badge/Level-Who_the_hell_is_this_guy-%23e55?style=for-the-badge)
