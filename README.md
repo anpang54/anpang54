@@ -1,7 +1,8 @@
 
 ## Hi there!
 I'm Anpang. The username `anpang` was taken, so I'm `anpang54` here on Github.
-I do coding as a hobby. I mainly do web development, but I also make some games. I can write C/C++, Python, PHP, and some Lua.
+
+I do coding as a hobby. I mainly do web development, but I also make some games.
 
 Pronouns: He/Him&emsp;/&emsp;[Email me](mailto:anpang59@gmail.com)
 
