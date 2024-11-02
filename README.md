@@ -15,6 +15,6 @@ Pronouns: He/Him&emsp;/&emsp;[Email me](mailto:anpang59@gmail.com)
 * [My website](https://anpang.fun/)
 * [Polus](https://polus.anpang.fun)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anpang54)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anpang54&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Anpang54&style=for-the-badge) ![](https://img.shields.io/badge/Level-Slightly%20known-%23f60?style=for-the-badge)
