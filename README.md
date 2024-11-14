@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Anpang54&style=for-the-badge) ![](https://img.shields.io/badge/Level-Slightly%20known-%23f60?style=for-the-badge)
 
 ## Hi there!
 I'm Anpang. Well, the username `anpang` was taken, so I'm `anpang54` here on Github.\
@@ -15,6 +16,7 @@ Pronouns: He/Him&emsp;/&emsp;[Email me](mailto:anpang59@gmail.com)
 * [My website](https://anpang.fun/)
 * [Polus](https://polus.anpang.fun)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anpang54&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=Anpang54&style=for-the-badge) ![](https://img.shields.io/badge/Level-Slightly%20known-%23f60?style=for-the-badge)
+
+[![Anpang54's GitHub stats](https://github-readme-stats.vercel.app/api?username=anpang54&theme=dark&show_icons=true&hide=stars&hide_rank=true)](https://github.com/anpang54/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anpang54&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
