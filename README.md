@@ -4,13 +4,4 @@
 I'm Anpang. Well, the username `anpang` was taken, so I'm `anpang54` here on Github.\
 I do coding as a hobby. I mainly do web development, but I also make some games.
 
-Pronouns: He/Him&emsp;/&emsp;[Email me](mailto:anpang59@gmail.com)
-
-### Projects
-
-**Open-source:**
-* [under-construction](https://github.com/anpang54/under-construction)
-
-**Closed-source:**
-* [My website](https://anpang.fun/)
-* [Polus](https://polus.anpang.fun)
+Website: [anpang.fun](https://anpang.fun/)&emsp;/&emsp;Pronouns: He/Him&emsp;/&emsp;[Email me](mailto:ap@anpang.fun)
