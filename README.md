@@ -6,6 +6,6 @@ I do coding as a hobby. I mainly do web development, but I also make some games.
 
 &emsp;&emsp;[Repos](https://github.com/anpang54?tab=repositories)&emsp;&emsp;[Gists](https://gist.github.com/anpang54)&emsp;&emsp;
 
-* Website: [anpang.fun](https://anpang.fun/)
+* Website: [anpang.lol](https://anpang.lol/)
 * Pronouns: He/Him
-* Email: [ap@anpang.fun](mailto:ap@anpang.fun)
+
