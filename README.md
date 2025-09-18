@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Anpang54)
 
-**Hi! I'm Anpang.**\
+### Hi! I'm Anpang.
 Well, the username `anpang` was taken, so I'm `anpang54` here on Github.\
 I do coding as a hobby, and it's mainly web development, but I also make some games.
 
